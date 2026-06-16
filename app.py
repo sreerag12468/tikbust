@@ -15,7 +15,7 @@ HTML = """
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>TikBust — TikTok Downloader</title>
+  <title>Radikikk Downloader — Free TikTok Video Downloader</title>
   <style>
     /* ── tokens ── */
     :root {
@@ -137,8 +137,8 @@ HTML = """
 </head>
 <body>
 
-  <div class="logo"><span>Tik</span><span>Bust</span></div>
-  <p class="tagline">Watermark-free TikTok downloads</p>
+  <div class="logo"><span>Radikikk</span><span> Downloader</span></div>
+  <p class="tagline">Watermark-free TikTok downloads — fast & free</p>
 
   <div class="card">
     <label for="url-input">TikTok video link</label>
